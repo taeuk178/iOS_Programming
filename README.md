@@ -17,7 +17,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
 # OOPPOP
 
 
-# FunctionalProgramming
+# Functional Programming
 
 # DesignPattern
 
