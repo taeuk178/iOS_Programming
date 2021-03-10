@@ -14,7 +14,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
 
 
 
-## OOP, POP
+# OOP, POP
 
 
 ## Functional Programming
