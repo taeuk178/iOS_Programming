@@ -3,7 +3,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
 
 ## Table Of Contents
 - [OOP, POP](#OOPPOP)
-- Functional Programming
+- [Functional Programming](#FunctionalProgramming)
 - Design Pattern
 - Code Style
 - Swift Language Guide
@@ -17,7 +17,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
 # OOPPOP
 
 
-## Functional Programming
+# Functional Programming
 
 ## Design Pattern
 
