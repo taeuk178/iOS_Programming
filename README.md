@@ -29,6 +29,8 @@ iOS에 관한 내용들 한 눈에 살펴보자
 - [Architecture 비교](https://zetal.tistory.com/entry/swift-Architecture-mvcmvpmvvmvipervip-비교)
 - [iOS 디자인 패턴 1탄](https://eunjin3786.tistory.com/31?category=837198)
 - [iOS 디자인 패턴 2탄](https://eunjin3786.tistory.com/114?category=837198)
+  - ### MVP
+  - [MVP 적용해보기](https://jiyeonlab.tistory.com/39)
 
 # CodeStyle
 - Swift API Design Guidelines
