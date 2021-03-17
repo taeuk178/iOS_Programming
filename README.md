@@ -29,9 +29,14 @@ iOS에 관한 내용들 한 눈에 살펴보자
 - [Architecture 비교](https://zetal.tistory.com/entry/swift-Architecture-mvcmvpmvvmvipervip-비교)
 - [iOS 디자인 패턴 1탄](https://eunjin3786.tistory.com/31?category=837198)
 - [iOS 디자인 패턴 2탄](https://eunjin3786.tistory.com/114?category=837198)
-  - ### MVP
-  - [MVP 적용해보기](https://jiyeonlab.tistory.com/39)
+- [Architecture + Clean Swift](https://tv.naver.com/v/4980400)
 
+  - ### MVP
+    - [MVP 적용해보기](https://jiyeonlab.tistory.com/39)
+  - ### MVC
+    - [Document Archive MVC](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+    - [Modern MVC](https://medium.com/ios-os-x-development/modern-mvc-39042a9097ca)
+  - ### MVVM
 # CodeStyle
 - Swift API Design Guidelines
   - [English(원본)](https://swift.org/documentation/api-design-guidelines/#naming)
