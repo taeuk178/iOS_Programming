@@ -37,6 +37,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
     - [Document Archive MVC](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
     - [Modern MVC](https://medium.com/ios-os-x-development/modern-mvc-39042a9097ca)
   - ### MVVM
+    - [Stanford-MVVM and the Swift Type System](https://www.youtube.com/watch?v=4GjXq2Sr55Q&t=565s)
 # CodeStyle
 - Swift API Design Guidelines
   - [English(원본)](https://swift.org/documentation/api-design-guidelines/#naming)
