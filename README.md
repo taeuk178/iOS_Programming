@@ -53,7 +53,7 @@ iOS에 관한 내용들 한 눈에 살펴보자
 # Debug
 
 # Git
-
+- [커밋 메세지 작성가이드](https://udacity.github.io/git-styleguide/)
 # Algorithms
 
 # Testing
